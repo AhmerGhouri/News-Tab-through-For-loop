@@ -1,0 +1,55 @@
+.container{
+
+
+
+    margin-top: 100px;
+
+    display: flex;
+    border: black solid 1px;
+
+
+}
+
+
+.nav-tabs{
+
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    width: 30%;
+
+
+
+}
+
+
+.tab-content{
+
+
+    overflow-y: scroll;
+    height: 170px;
+    width: 100%;
+
+
+}
+
+
+li{
+
+
+    width: 100%;
+
+
+}
+
+
+.nav-tabs li.active a{
+
+
+    background-color: gray !important;
+    color: white;
+
+
+}
