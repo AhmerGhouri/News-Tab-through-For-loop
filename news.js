@@ -5,245 +5,703 @@ let responseText = [
         "color": "purple",
         "type": "minivan",
         "registration": new Date('2017-01-03'),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
+
+
     },
     {
         "area": "news",
         "color": "red",
         "type": "station wagon",
         "registration": new Date(),
-        "capacity": 5
+        "capacity": 5,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
+
     },
     {
         "area": "news",
         "color": "red",
         "type": "toyota",
         "registration": new Date(),
-        "capacity": 6
+        "capacity": 6,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [ {
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -251,7 +709,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -259,7 +730,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -267,7 +751,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -275,7 +772,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -283,7 +793,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -291,7 +814,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -299,7 +835,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -307,7 +856,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -315,7 +877,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -323,7 +898,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -331,7 +919,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -339,7 +940,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -347,7 +961,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -355,7 +982,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
@@ -364,7 +1004,7 @@ let responseText = [
         "registration": new Date(),
         "capacity": 7,
         "notifications": "Yes",
-        "item": ["red", {
+        "item": [{
 
             "StudentList": "1st Year Student List",
             "MeritList": "https://www.sohailuniversity.edu.pk",
@@ -384,14 +1024,40 @@ let responseText = [
         "color": "red",
         "type": "vigo",
         "registration": new Date(),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "news",
         "color": "red",
         "type": "honda",
         "registration": new Date(),
-        "capacity": 8
+        "capacity": 8,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
 
     {
@@ -399,7 +1065,20 @@ let responseText = [
         "color": "purple",
         "type": "minivan",
         "registration": new Date('2017-01-03'),
-        "capacity": 7
+        "capacity": 7,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -407,7 +1086,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 5
+        "capacity": 5,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -415,7 +1107,20 @@ let responseText = [
         "type": "diahatsu",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 4
+        "capacity": 4,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -423,7 +1128,20 @@ let responseText = [
         "type": "mercedes",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 3
+        "capacity": 3,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -431,7 +1149,20 @@ let responseText = [
         "type": "4 strokes",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 2
+        "capacity": 2,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -439,7 +1170,20 @@ let responseText = [
         "type": "2 strokes",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 5
+        "capacity": 5,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -447,7 +1191,20 @@ let responseText = [
         "type": "euro 2",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 1
+        "capacity": 1,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -455,7 +1212,20 @@ let responseText = [
         "type": "euro",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 5
+        "capacity": 5,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -463,7 +1233,20 @@ let responseText = [
         "type": "euro 2",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 6
+        "capacity": 6,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -471,7 +1254,20 @@ let responseText = [
         "type": "vigo",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 5
+        "capacity": 5,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -479,7 +1275,20 @@ let responseText = [
         "type": "euro",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 4
+        "capacity": 4,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -487,7 +1296,20 @@ let responseText = [
         "type": "4 strokes",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 2
+        "capacity": 2,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -495,7 +1317,20 @@ let responseText = [
         "type": "euro",
         "registration": new Date(),
         "notifications": "No",
-        "capacity": 9
+        "capacity": 9,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
@@ -504,7 +1339,7 @@ let responseText = [
         "registration": new Date(),
         "capacity": 8,
         "notifications": "Yes",
-        "item": ["orange", {
+        "item": [{
 
             "StudentList": "3rd Year Student List",
             "MeritList": "https://www.sohailuniversity.edu.pk",
@@ -524,14 +1359,40 @@ let responseText = [
         "color": "orange",
         "type": "i-vtech",
         "registration": new Date(),
-        "capacity": 5
+        "capacity": 5,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
     {
         "area": "exams",
         "color": "orange",
         "type": "honda",
         "registration": new Date(),
-        "capacity": 3
+        "capacity": 3,
+        "item": [{
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     },
 
     {
@@ -539,40 +1400,44 @@ let responseText = [
         "color": "orange",
         "type": "minivan",
         "registration": new Date('2017-01-03'),
-        "capacity": 4
+        "capacity": 4,
+        "item": ["" ,{
+
+            "StudentList": "",
+            "MeritList": "",
+
+
+
+        },
+            {
+                "StudentList": "",
+                "MeritList": "",
+
+            }]
     },
     {
         "area": "admission",
-        "color": "orange",
+        "color": "black",
         "type": "minivan",
         "registration": new Date('2017-01-03'),
-        "capacity": 4
+        "capacity": 4,
+        "item": [ {
+
+            "StudentList": "3rd Year Student List",
+            "MeritList": "https://www.sohailuniversity.edu.pk",
+
+
+
+        },
+            {
+                "StudentList": "4th Year Merit List",
+                "MeritList": "https://www.jmc.edu.pk",
+
+            }]
     }
 
 ]
 
-
-// var responseText = [{
-//     "area": "CSE",
-//     "cus": "progress",
-//     "project": "Project 1",
-//     "projectdes": "Class    1st"
-// }, {
-//     "area": "ECE",
-//     "cus": "complered",
-//     "project": "Project 2",
-//     "projectdes": "This is class 1st Project"
-// }, {
-//     "area": "IT",
-//     "cus": "progress",
-//     "project": "project 1",
-//     "projectdes": "This is Class 2nd project"
-// }, {
-//     "area": "IT",
-//     "cus": "pending",
-//     "project": "Project 2",
-//     "projectdes": "This is class 2nd project"
-// }];
 
 
 
@@ -583,9 +1448,9 @@ function showData() {
 
     var uniueTabs = getUniqueLists(responseText);
 
+    
+
     for (var i = 0; i < uniueTabs.length; i++) {
-
-
 
 
 
@@ -593,12 +1458,28 @@ function showData() {
         var div = '<div id="tab-content-' + i + '" class="tab-pane fade">';
 
         for (var j = 0; j < uniueTabs[i].tabContent.length; j++) {
+                
+                var obj = uniueTabs[i].tabContent[j];
+                
+                // div += '<p>' + obj.registration + obj.color + `<a href="${uniueTabs[i].tabContent[j].item.MeritList}" target="_blank">` + uniueTabs[i].tabContent[j].item.StudentList + '</a>' +  '</p>'
+                // div += '<p>' + obj.type + '</p>';
+                // div += '<p>' + uniueTabs[i].tabContent[j].item.MeritList + '</p>';
+                // div += '<p>' + obj.MeritList + '</p>';
 
-            var obj = uniueTabs[i].tabContent[j];
-            div += '<p>' + obj.registration + obj.color +'</p>';
-            // div += '<p>' + obj.registration + '</p>';
-            
-        }
+
+                div += `
+                
+                <div> <p>
+
+                  ${obj.registration}  ${obj.color} 
+                  
+                  <a href="${uniueTabs[i].tabContent[j].item.MeritList}" target="_blank"> 
+                  ${uniueTabs[i].tabContent[j].item.StudentList}  </a>   </p>
+                
+                
+                `
+               
+            }
 
         $('.tab-content').append(div);
         $('#tab-content-0').addClass('in active');
@@ -628,40 +1509,162 @@ function mergeDataAreaWise(area, responseText) {
 
 
     var tabList = [];
+
+
+    console.log(tabList)
  
-
-
-
+    
+    
     for (var i = 0; i < area.length; i++) {
+        
         tabList.push({
             area: area[i],
             tabContent: []
         });
     }
+
+
+
     for (var i = 0; i < tabList.length; i++) {
 
-
-
-
+       
+        
         for (var j = 0; j < responseText.length; j++) {
 
 
-            var Obj = {
+             
+            for(k = 0 ; k < responseText[j].item.length ; k++){
+         
+                
+                // console.log(responseText[j].item[k])
+            
+          
+                
+                
+                var Obj = {
+                    
+                    color: responseText[j].color,
+                    type: responseText[j].type,
+                    registration: responseText[j].registration,
+                    capacity: responseText[j].capacity,
+                    item : responseText[j].item[k],
+                
+                    
+                }
+                
+                var currentArea = responseText[j].area;
+                // var currentItem = responseText[j].item[k]
 
-                color: responseText[j].color,
-                type: responseText[j].type,
-                registration: responseText[j].registration,
-                capacity: responseText[j].capacity
+                if (tabList[i].area === currentArea ) {
+                    
+                    tabList[i].tabContent.push(Obj);
+
+
+                    // if (tabList[i].color === currentItem){
+
+
+
+                    //     console.log("Hogaya")
+
+
+
+
+
+                    // }
+
+
+
+
+
+                }
+                    
             }
-            var currentArea = responseText[j].area;
-            if (tabList[i].area === currentArea) {
-                tabList[i].tabContent.push(Obj);
-            }
+
         }
+
     }
-    console.log(tabList);
+
     return tabList;
+
 }
+
+
+
+// function mergenotification(){
+
+
+
+//     var items = []
+
+
+//     for(i= 0 ; i < responseText.length ; i++){
+
+
+//         var response = responseText[i]
+
+        
+        
+        
+//         for(j = 0 ; j < response.item.length ; j++){
+            
+//             console.log(response.item[j])
+            
+//             var obj = {
+
+
+//                 MeritList : response.item[j].MeritList,
+//                 StudentList : response.item[j].StudentList
+
+
+
+
+//             }
+
+//             var currentitem = response.item[j]
+
+
+//             if(response.item[j] === response.color){
+
+//                 items.push({
+
+
+//                     MeritList : response.item[j].MeritList,
+//                     StudentList : response.item[j].StudentList
+    
+    
+    
+    
+//                 })
+            
+//                 // console.log(response.item[j].MeritList) 
+
+//             }
+
+//             else {
+
+
+//                 console.log("nhi hwa")
+
+
+//             }
+
+//         }
+
+
+
+
+
+//     }
+
+//     console.log(items)
+
+
+
+
+// }
+
+// mergenotification()
+
 
 
 
